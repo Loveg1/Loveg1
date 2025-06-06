@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Loveg1
-- 👀 I’m interested in learning everything that will make me a professional software engineer
-- 🌱 I’m currently learning html, css, javascript ...
-- 💞️ I’m looking to collaborate with like minds
+- 👋 Hi, I’m @Loveth
+- 👀 I’m interested in learning everything that will make me a professional data engineer
+- 🌱 I’ve learnt the basics of HTML, CSS, and JavaScript. Now, I'm enhancing my skills in data analytics using tools such as Excel, Power BI, SQL, Python, and Tableau.
+- 💞️ I’m looking to collaborate with like-minded people
 - 📫 How to reach me- lovethossai24@gmail.com
 
 <!---
